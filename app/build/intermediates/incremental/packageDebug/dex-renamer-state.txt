@@ -1,0 +1,7 @@
+#Tue Oct 17 23:21:33 IST 2017
+base.0=D\:\\COLLEGE\\second year\\sem 3\\android\\Splash.me\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_681ed62e0f4f5d1d47c3e24485c7a2ac73b05094
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\COLLEGE\\second year\\sem 3\\android\\Splash.me\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_83f9c57dff586e45a3f4bd3766036ce8ce9528e5\\classes.dex
+base.1=D\:\\COLLEGE\\second year\\sem 3\\android\\Splash.me\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_83f9c57dff586e45a3f4bd3766036ce8ce9528e5
+file.0=D\:\\COLLEGE\\second year\\sem 3\\android\\Splash.me\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_681ed62e0f4f5d1d47c3e24485c7a2ac73b05094\\classes.dex
